@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+pythonenv*
+
+# Data (do not upload images)
+data/
+*.zip
+*.tar
+*.gz
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tif
+*.tiff
+
+# Results
+results/
+output/
+*.pth
+*.pt
+*.h5
+*.hdf5
+*.log
+*.csv
+!test_metrics.csv  # except if you want to keep specific CSVs
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Notebooks
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
