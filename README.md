@@ -32,3 +32,24 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
+
+## 📥 Data Download
+
+This project requires two datasets. Follow the instructions below to download and organize them.
+
+### Required Datasets
+
+| Dataset | Source | Size | Type |
+|---------|--------|------|------|
+| **EDC** | [Kaggle - Eye Diseases Classification](https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-classification) | ~4k images | Single-label |
+| **ODIR-5K** | [Kaggle - ODIR-5K Classification](https://www.kaggle.com/datasets/tanjemahamed/odir5k-classification) | ~8k images | Multi-label |
+
+### Quick Setup
+
+```bash
+# Create data directory
+mkdir -p data
+
+# For detailed instructions, see:
+# - data/README.md
+# - scripts/download_datasets.sh
