@@ -5,9 +5,9 @@
 
 ## 📋 Description
 
-This repository contains the official implementation of the **ASR (Systemic Relationship Analysis)** method and the **F1-RS (F1-Robustness Score)** metric for auditing the clinical robustness of artificial intelligence models in ophthalmic diagnosis.
+This repository contains the official implementation of the **SRA (Systemic Relationship Analysis)** method and the **F1-RS (F1-Robustness Score)** metric for auditing the clinical robustness of artificial intelligence models in ophthalmic diagnosis.
 
-The ASR method enables:
+The SRA method enables:
 - Automatic identification of the most critical diagnostic contrasts
 - Quantification of robustness degradation through ΔF1-RS
 - Detection of "robustness illusion" in apparently accurate models
