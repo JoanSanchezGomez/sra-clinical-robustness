@@ -1,4 +1,4 @@
-# Datasets for ASR Clinical Robustness
+# Datasets for SRA Clinical Robustness
 
 This project uses two main datasets: **EDC** and **ODIR-5K**. Below are the instructions to download and organize them.
 
