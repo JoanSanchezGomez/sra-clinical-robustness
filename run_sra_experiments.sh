@@ -179,7 +179,5 @@ fi
 echo ""
 echo "Results saved in folders: main_*"
 echo ""
-echo "Next step:"
-echo "  python analyze_sra_results.py"
 echo ""
 echo "================================================================================"
