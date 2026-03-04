@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Script to help download datasets for ASR project
+# Script to help download datasets for SRA project
 # Note: This script provides instructions only - manual download required due to Kaggle authentication
 
 echo "=================================================="
