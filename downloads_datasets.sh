@@ -4,7 +4,7 @@
 # Note: This script provides instructions only - manual download required due to Kaggle authentication
 
 echo "=================================================="
-echo "  ASR Clinical Robustness - Dataset Download Helper"
+echo "  SRA Clinical Robustness - Dataset Download Helper"
 echo "=================================================="
 echo ""
 echo "This script provides instructions to download the required datasets."
