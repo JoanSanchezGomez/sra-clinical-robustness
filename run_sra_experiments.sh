@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Script para ejecutar experimentos del Método ASR
+# Script para ejecutar experimentos del Método SRA
 # Versión actualizada con Swin Transformer
 # 3 Modelos: EfficientNet-B0, ConvNeXt-Base, Swin-Tiny
 
@@ -11,7 +11,7 @@ if [ ! -f "$MAIN" ]; then
 fi
 
 echo "================================================================================"
-echo "           MÉTODO ASR - ANÁLISIS SISTÉMICO DE RELACIONES"
+echo "           MÉTODO SRA - ANÁLISIS SISTÉMICO DE RELACIONES"
 echo "         3 Modelos: EfficientNet-B0 | ConvNeXt-Base | Swin-Tiny"
 echo "================================================================================"
 echo ""
@@ -30,7 +30,7 @@ echo "  - Learning rate: $LR"
 echo ""
 
 ####################################
-# EXPERIMENTOS MÉTODO ASR
+# EXPERIMENTOS MÉTODO SRA
 ####################################
 
 declare -a EXPERIMENTS=(
