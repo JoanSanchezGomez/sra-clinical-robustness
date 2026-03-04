@@ -23,8 +23,8 @@ The SRA method enables:
 
 ```bash
 # Clone the repository
-git clone https://github.com/JoanSanchezGomez/asr-clinical-robustness.git
-cd asr-clinical-robustness
+git clone https://github.com/JoanSanchezGomez/sra-clinical-robustness.git
+cd sra-clinical-robustness
 
 # Create virtual environment (recommended)
 python -m venv venv
